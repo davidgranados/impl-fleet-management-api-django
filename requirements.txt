@@ -1,0 +1,9 @@
+Django==5.0.2
+djangorestframework==3.14.0
+
+django-extensions==3.2.3
+
+# Dev
+black==24.2.0
+flake8==7.0.0
+isort==5.13.2
